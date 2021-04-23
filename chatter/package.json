@@ -41,5 +41,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "socket.io": "^4.0.1"
   }
 }
